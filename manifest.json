@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+
+    "name": "Skypixel download button",
+    "description": "Show download button option in Skypixel.com videos.",
+    "version": "1.0",
+
+    "content_scripts": [{
+        "css": ["style.css"],
+        "js": ["script.js"],
+        "matches": ["https://www.skypixel.com/videos/*"]
+    }]
+}

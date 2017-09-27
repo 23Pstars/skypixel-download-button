@@ -1,0 +1,8 @@
+a.svd-download-button i {
+    display: inline-block;
+    height: 20px;
+    width: 22px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABsklEQVRIS7XUy4vOcRTH8deTLEbJgrBhUhaUyMbKfYpSZLJi4Q9QLJREWRGlsFFGLiUrt40sSA1blzKL2bgMG80UpSRi4dKp7+/p59c88/0+D3O255zP+3tu35ZpttY06+sWsB6DWIpfeIHbGO300G4Ah7EZl/Aac7Ea6/AEpyaDlAJO4htOdHjpEJ7jctM/GWA29mMlhjGB3diTmdctXMH9elwTEGVH4ENcxyHMT4DcPizGeeyYCnAa73Ahp9bB/xGL8L3y1ytYgbPYit89Aq7hDu42AbF6sSXb8KlH8UjbieN4hb34GhVsxFFs+QfhZuoyXMRAAGK1Yqg3CgAzUvviyHK2IY4yAA9S33MJ4T+GH4hlyNk8PAvACHZhLJfRK+AIPqQjyTG6qWATtldrejX9JzGYqawU8NeQK8H4T+IG7mFhg7IPcUR1wIJ0ufXQ8bSVb+prWg+Yg1WY1QA8TtdZB/QhNqVuP9Ms3zYPLdf7yl/aorZeyXd9EO9xs9Gip1iTe1kJIDTO4CWi73EHB7AcX/4XIHTOYUkaYj8+58TDX1pBpbUWM/GoRLwXQKluO+4PHN9Y/Zhe1rsAAAAASUVORK5CYII=) no-repeat;
+    background-size: 20px 20px;
+    vertical-align: middle;
+}
